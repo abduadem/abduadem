@@ -1,6 +1,6 @@
 [![MasterHead](https://digitaledgetech.in/images/Banner_02_new.gif)] 
 <h1 align="center">Hi 👋, I'm Abdulrehman Adem</h1>
-<h3 align="center">A passionate Full stack developer from Ethiopia</h3>
+<h3 align="center">A passionate Full stack developer from planet Earth</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-25731151.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduadem&label=Profile%20views&color=0e75b6&style=flat" alt="abduadem" /> </p>
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/abduademjudy" target="blank"><img src="https://img.shields.io/twitter/follow/abduademjudy?logo=twitter&style=for-the-badge" alt="abduademjudy" /></a> </p>
 
-- 🌱 I’m currently learning **C, c++**
+- 🌱 I’m currently learning **C, c++, python**
 
 - 📫 How to reach me **abdulrehmanadem4@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think the root is at the top of the tree**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

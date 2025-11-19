@@ -1,6 +1,8 @@
 [![MasterHead](https://digitaledgetech.in/images/Banner_02_new.gif)] 
-<h1 align="center">Hi 👋, I'm Abdulrehman Adem</h1>
+<h1 align="center">Hi 👋, I'm CUDA </h1>
 <h3 align="center">A passionate Full stack developer from planet Earth</h3>
+<h3 align="center">I don’t flinch at failure — I run on CUDA mode — no lag from failure !</h3>
+
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-25731151.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduadem&label=Profile%20views&color=0e75b6&style=flat" alt="abduadem" /> </p>
